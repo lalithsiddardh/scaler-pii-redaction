@@ -1,0 +1,6 @@
+# Normalise line endings so the same tree checks out identically on Windows,
+# macOS and Linux, and so diffs stay readable.
+* text=auto eol=lf
+
+# The redacted artefact is a binary zip and must never be touched.
+*.docx binary

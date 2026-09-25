@@ -1,0 +1,73 @@
+# Person names named in this document (hand-curated by reading the file).
+# One entry per line; "#" starts a comment.
+# Used by the gazetteer-assisted detector.  Run with --no-gazetteer to
+# evaluate the pattern-only detectors instead.
+
+# --- Directors ---------------------------------------------------------
+Kushal Subbayya Hegde
+Rajesh Kushal Hegde
+Rohit Kushal Hegde
+Rakhi Girija Shetty
+Dinesh Hirachand Munot
+Ajay Shriram Patil
+Ram Kumar Tiwari
+Indu Jacob
+
+# --- Promoters ---------------------------------------------------------
+Pushpa Kushal Hegde
+Maithili Rajesh Hegde
+Katyayani Balasubramanian
+Sangeeta Ramprasad Rai
+Pushpa Hegde
+Kushal Hegde
+Rajesh Hegde
+Rohit Hegde
+
+# --- Key managerial personnel / senior management ----------------------
+Sandesh Bhagwat
+Amod Joshi
+Sarthak Malvadkar
+Ganesh Prasad
+
+# --- Professionals named in the filing ---------------------------------
+Lalit Muljibhai Sarvaiya
+Parag Pansare
+Hitesh Ramani
+Chitra Raste
+Sharmila Joshi
+Cherag Gyara
+Manisha Shukla
+Tushar Wakhele
+Ashish Mathew Pulloor
+Anand Soni
+Lokesh Shah
+Soumavo Sarkar
+Kishan Rastogi
+Abhijit Diwan
+Shanti Gopalkrishnan
+Prakash Boricha
+Eric Bacha
+Sachin Gawade
+Pravin Teli
+Siddharth Jadhav
+Tushar Gavankar
+Varun Badai
+Sheetal Parab
+
+# --- Shareholders and transfer register -------------------------------
+Rupal K. Sancheti
+Salil Ajay Bhargava
+Jabeen Ajay Menon
+Ajay Menon
+Sunil Nagayya Shetty
+Karunakar Hegde
+Karunakar Bhandary
+Karunakar N. Bhandary
+Karunakar Hegde HUF
+Jayaram Shetty
+Jayaram N. Shetty
+Narayna B. Shetty
+DM Shetty
+SA Shetty
+Gopal BO
+Vijay Hegde

@@ -1,0 +1,19 @@
+[server]
+# The pipeline is CPU-bound and takes ~26 s on the 1.8 MB prospectus, so the
+# websocket must be allowed to stay open well past the default.
+headless = true
+enableWebsocketCompression = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#1a4d8f"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f4f6f9"
+textColor = "#14181f"
+font = "sans serif"
+
+[runner]
+fastReruns = true

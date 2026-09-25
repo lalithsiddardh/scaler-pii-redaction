@@ -1,0 +1,20 @@
+# No third-party packages are needed to redact, verify or score.
+#
+# The redaction pipeline, the verifier, the gold-set builder and the evaluator
+# are written against the Python 3.9 standard library only (zipfile,
+# xml.etree, re, hashlib, difflib, argparse, collections, subprocess,
+# tempfile, unittest).  Nothing has to be installed to run the tool:
+#
+#     python3 redact.py "Red Herring Prospectus.docx" -o redacted.docx
+#     python3 -m unittest discover -v
+#
+# Python: 3.9 or newer.
+#
+# Optional, for the layout audit only (not required to redact or verify):
+#   macOS qlmanage  - renders a thumbnail of the first page
+#
+# ---------------------------------------------------------------------------
+# Web demo only.  `app.py` is an optional Streamlit front end and is the sole
+# reason this file is not empty.  The pipeline never imports it.
+# ---------------------------------------------------------------------------
+streamlit==1.51.0

@@ -1,0 +1,21 @@
+# Organisations that the legal-suffix pattern cannot reach, either because
+# they carry no recognised suffix (law firms, trusts, brand names used as
+# coordinator short forms) or because they use a non-Indian suffix ("AB").
+# One entry per line; "#" starts a comment.
+
+# Promoter vehicles (family trusts)
+Dhaulagiri Family Trust
+Everest Family Trust
+Makalu Family Trust
+Broad Family Trust
+Kanchenjunga Family Trust
+
+# Short forms used as table values
+Nuvama
+I-Sec
+
+# Professional firms without an Indian legal suffix
+Trilegal
+Polycom Associates
+Ahlstrom Sweden AB
+Parijat Foundation
